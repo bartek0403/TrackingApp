@@ -1,0 +1,7 @@
+include ':app'
+include ':openCVLibrary320'
+include ':openCVTutorial1CameraPreview'
+include ':openCVTutorial2MixedProcessing'
+include ':openCVSamplefacedetection'
+include ':openCVTutorial3CameraControl'
+include ':openCVSample15puzzle'
